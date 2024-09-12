@@ -1,0 +1,71 @@
+Date newdate(resyear, resmonth, resday, reshour, resminute);
+	smart2 p = this->ptr;
+	string cityupper, pcity;
+	ss << city;
+	while (ss >> sign)
+	{
+		sign = toupper(sign);
+		cityupper.push_back(sign);
+	}
+	ss.str(""); ss.clear();
+	while (p)
+	{
+		pcity = p->city; ss << pcity; pcity = "";
+		while (ss >> sign)
+		{
+			pcity.push_back(sign);
+		} ss.str(""); ss.clear();
+		if (pcity == cityupper && p->seats == seatsnumber && newdate != p->reservdate)
+		{
+			return true;
+		}
+		p = p->pointer2;
+	}
+	cout << "Brak wolnych stolikow dla podanej liczby osob w tym terminie, wpisz inny termin lub"
+
+
+
+
+
+
+08-02-2023, 17:00
+resday = stoi(day_);
+resmonth = stoi(month_);
+if (resmonth < 1 || resmonth > 12)
+		{
+			cout << "Niepoprawne dane, wprowadz date jeszcze raz";
+			return false;
+		}
+		if ((resmonth == 1 || resmonth == 3 || resmonth == 5 || resmonth == 7 || resmonth == 8 || resmonth == 10 || resmonth == 12) && (resday < 1 || resday > 31))
+		{
+			cout << "Niepoprawne dane, wprowadz date jeszcze raz";
+			return false;
+		}
+		if ((resmonth == 4 || resmonth == 6 || resmonth == 9 || resmonth == 11) && (resday < 1 || resday > 30))
+		{
+			cout << "Niepoprawne dane, wprowadz date jeszcze raz";
+			return false;
+		}
+		if (resmonth == 2 && (resday < 1 || resday > 29))
+		{
+			cout << "Niepoprawne dane, wprowadz date jeszcze raz";
+			return false;
+		}
+resyear = stoi(year_);
+if (resyear < 2022 || resyear > 2030)
+		{
+			cout << "Wprowadz poprawny rok";
+			return false;
+		}
+reshour = stoi(hour_);
+		if (reshour < 14 || reshour > 22)
+		{
+			cout << "Przyjmujemy rezerwacje miedzy godzina 14 a 22.";
+			return false;
+		}
+resminute = stoi(minute_);
+		if (resminute < 0 || resminute > 59)
+		{
+			cout << "Niepoprawna minuta rezerwacji";
+			return false;
+		}

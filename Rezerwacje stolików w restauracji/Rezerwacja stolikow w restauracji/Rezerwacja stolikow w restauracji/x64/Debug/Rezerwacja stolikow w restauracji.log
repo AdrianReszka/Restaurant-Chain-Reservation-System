@@ -1,0 +1,10 @@
+﻿  Date.cpp
+  List_res.cpp
+  List_table.cpp
+  main.cpp
+C:\Users\adico\Desktop\Studia\II semestr\Rezerwacje stolików w restauracji\List_table.cpp(278,7): warning C4101: 'sign': unreferenced local variable
+C:\Users\adico\Desktop\Studia\II semestr\Rezerwacje stolików w restauracji\List_table.cpp(281,6): warning C4101: 'selectedTableSeatsCount': unreferenced local variable
+  Reservation.cpp
+  Table.cpp
+  Generating Code...
+  Rezerwacja stolikow w restauracji.vcxproj -> C:\Users\adico\Desktop\Studia\II semestr\Rezerwacje stolików w restauracji\Rezerwacja stolikow w restauracji\x64\Debug\Rezerwacja stolikow w restauracji.exe

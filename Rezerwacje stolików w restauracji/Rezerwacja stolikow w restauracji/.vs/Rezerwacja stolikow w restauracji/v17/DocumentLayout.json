@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Rezerwacja stolikow w restauracji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_res.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Reservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\ListOrigin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29037-5D56-481B-95A3-A42B8D5C5250}|Rezerwacja stolikow w restauracji\\Rezerwacja stolikow w restauracji.vcxproj|C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\TableOrigin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListOrigin.h",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\ListOrigin.h",
+              "RelativeDocumentMoniker": "..\\ListOrigin.h",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\ListOrigin.h",
+              "RelativeToolTip": "..\\ListOrigin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-08-29T11:19:07.701Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableOrigin.h",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\TableOrigin.h",
+              "RelativeDocumentMoniker": "..\\TableOrigin.h",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\TableOrigin.h",
+              "RelativeToolTip": "..\\TableOrigin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-08-31T20:19:44.405Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.h",
+              "RelativeDocumentMoniker": "..\\Date.h",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.h",
+              "RelativeToolTip": "..\\Date.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-09-01T08:53:57.446Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Table.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Table.cpp",
+              "RelativeDocumentMoniker": "..\\Table.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Table.cpp",
+              "RelativeToolTip": "..\\Table.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T19:32:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Reservation.cpp",
+              "RelativeDocumentMoniker": "..\\Reservation.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Reservation.cpp",
+              "RelativeToolTip": "..\\Reservation.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T19:32:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List_table.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_table.cpp",
+              "RelativeDocumentMoniker": "..\\List_table.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_table.cpp",
+              "RelativeToolTip": "..\\List_table.cpp",
+              "ViewState": "AQIAABEBAAAAAAAAAAAUwCkBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T19:32:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List_res.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_res.cpp",
+              "RelativeDocumentMoniker": "..\\List_res.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\List_res.cpp",
+              "RelativeToolTip": "..\\List_res.cpp",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAADsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T19:32:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.cpp",
+              "RelativeDocumentMoniker": "..\\Date.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\Date.cpp",
+              "RelativeToolTip": "..\\Date.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T19:32:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Studia\\II semestr\\Rezerwacje stolik\u00F3w w restauracji\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-08-31T15:16:07.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
